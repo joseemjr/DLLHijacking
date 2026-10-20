@@ -1,6 +1,6 @@
 #!/bin/bash
-# Build VERSION.dll proxy for VULN-001 DLL Hijacking PoC
-# Run from WSL: cd /mnt/c/Users/Jose/Desktop/Proyectos/MuMuNxVbox-LPE/poc/dll_hijack && bash build.sh
+# Build VERSION.dll proxy for DLL Hijacking PoC
+# Run from WSL: cd /mnt/c/Users/path/to/file && bash build.sh
 
 set -e
 
